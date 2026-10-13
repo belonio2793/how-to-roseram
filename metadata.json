@@ -1,0 +1,6 @@
+{
+  "name": "Roseram Video Studio - How-To Video Generator",
+  "description": "Interactive AI-powered video generator and studio for creating, customizing, and exporting high-impact how-to tutorials for Roseram.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
